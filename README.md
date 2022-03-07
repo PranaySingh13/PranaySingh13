@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pranay!]
 
 <!--
 **PranaySingh13/PranaySingh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
