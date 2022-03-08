@@ -4,7 +4,11 @@
 - 🌱 I’m currently learning Data Structures and Algorothms in depth
 - 🤔 I’m looking for help with AWS/Azure.
 - 🥅 2022 Goals: Learn more about React,AWS and DevOps.
-- 📫 Connect with me: <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
+- ⚡ Fun fact: Traveller and Fitness Enthusiasts
+  <br><br>
+
+### Connect with me: <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
+
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
   </a>
   <a href="">
@@ -16,7 +20,6 @@
   <a href="https://www.instagram.com/pranay.singh.1393/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
   </a>
-- ⚡ Fun fact: Traveller and Fitness Enthusiasts
 
 ### Languages and Tools:
 
