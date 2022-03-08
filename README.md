@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pranay!
 
 - 🔭 I’m currently working on Java Spring Framework.
-- 🌱 I’m currently learning Data Structures and Algorothms in depth
+- 🌱 I’m currently learning and upgrading Data Structures and Algorothms.
 - 🤔 I’m looking for help with AWS/Azure.
 - 🥅 2022 Goals: Learn more about React,AWS and DevOps.
 - ⚡ Fun fact: Traveller and Fitness Enthusiasts
