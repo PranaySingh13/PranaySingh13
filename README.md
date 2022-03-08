@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with AWS/Azure.
 - 🥅 2022 Goals: Learn more about React,AWS and DevOps.
 - ⚡ Fun fact: Traveller and Fitness Enthusiasts
-  <br><br>
+  <br>
 
 ### Connect with me: <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
 
@@ -21,8 +21,11 @@
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
   </a>
 
+<br><br>
+
 ### Languages and Tools:
 
+<br>
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
