@@ -11,9 +11,9 @@
 
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
   </a>
-  <a href="">
+  <!-- <a href="">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-  </a>
+  </a> -->
   <a href="mailto:pranay.singh.1393@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
