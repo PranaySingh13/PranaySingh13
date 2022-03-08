@@ -37,7 +37,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" style="padding-right:10px;" />
 
-<br>
+<br><br><br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -46,5 +46,5 @@
 
 </details>
 
-<br>
+<br><br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PranaySingh13.PranaySingh13)
