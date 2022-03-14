@@ -46,3 +46,12 @@
   <img align="left" alt="Pranay Singh GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PranaySingh13&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+<style>
+img{
+    transition: width 1s, height 1s;
+}
+img:hover{
+   width: 51px;
+  height: 51px;
+}
+</style>
