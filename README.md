@@ -9,7 +9,7 @@
 
 ### Connect with me: <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
 
-  <img align="left" width="24px" onmouseover="" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+  <img align="left" width="51px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
   </a>
   <!-- <a href="">
   <img align="left" width="51px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
