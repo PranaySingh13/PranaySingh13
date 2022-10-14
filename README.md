@@ -7,8 +7,9 @@
 - ⚡ Fun fact: Traveller and Fitness Enthusiasts
   <br>
 
-### Connect with me: <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
-  <img align="left" width="51px" src="./linkedin.png"  />
+### Connect with me: 
+<a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
+  <img align="left" width="51px" src="./instagram.jpg" />
   </a>
   <!-- <a href="">
   <img align="left" width="51px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
@@ -17,9 +18,6 @@
   <img align="left" width="51px" src="./gmail.png" />
   </a>
   <a href="https://www.instagram.com/pranay.singh.1393/">
-  <img align="left" width="51px" src="./instagram.jpg" />
-  </a>
-<a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
   <img align="left" width="51px" src="./instagram.jpg" />
   </a>
 
