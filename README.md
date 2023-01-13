@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Java Spring Framework.
 - 🌱 I’m currently learning and upgrading Data Structures and Algorothms.
 - 🤔 I’m looking for help with AWS/Azure.
-- 🥅 2022 Goals: Learn more about React,AWS and DevOps.
+- 🥅 2023 Goals: Learn more about React,AWS and DevOps.
 - ⚡ Fun fact: Traveller and Fitness Enthusiast
   <br>
 
