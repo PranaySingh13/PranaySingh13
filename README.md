@@ -1,10 +1,11 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pranay!
 
-- 🔭 I’m currently working on Java Spring Framework.
-- 🌱 I’m currently learning and upgrading Data Structures and Algorothms.
-- 🤔 I’m looking for help with AWS/Azure.
-- 🥅 2023 Goals: Learn more about React,AWS and DevOps.
-- ⚡ Fun fact: Traveller and Fitness Enthusiast
+- 👨‍💻 **Software Specialist**
+- 🔭 Currently leading development initiatives using **Java, Spring Boot, Microservices, and Cloud-Native architectures** to build scalable enterprise systems.
+- 🌱 Constantly upskilling in **Data Structures & Algorithms** to refine problem-solving and system optimization skills.
+- ☁️ Exploring advanced concepts in **AWS** to architect secure, distributed, and high-availability cloud solutions.
+- 🎯 **2026 Goals:** Strengthen expertise in **React, DevOps, and Cloud Infrastructure** to bridge backend and frontend excellence.
+- ⚡ **Fun Fact:** A passionate **traveller** and **fitness enthusiast**, always driven by curiosity and continuous improvement—both in tech and life.
   <br>
 
 ### Connect with me: 
@@ -39,10 +40,3 @@
 
 <br><br><br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PranaySingh13.PranaySingh13)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Pranay Singh GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PranaySingh13&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
