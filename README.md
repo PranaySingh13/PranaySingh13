@@ -8,7 +8,7 @@
 - ⚡ **Fun Fact:** A passionate **traveller** and **fitness enthusiast**, always driven by curiosity and continuous improvement—both in tech and life.
   <br>
 
-### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="99px">: 
+### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45px">: 
 <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
   <img align="left" width="51px" src="./linkedin.png" />
   </a>
