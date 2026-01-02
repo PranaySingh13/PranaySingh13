@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">, I'm Pranay!
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> **Software Specialist**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="99px"> **Software Specialist**
 - 🔭 Currently leading development initiatives using **Java, Spring Boot, Microservices, and Cloud-Native architectures** to build scalable enterprise systems.
 - 🌱 Constantly upskilling in **Data Structures & Algorithms** to refine problem-solving and system optimization skills.
 - ☁ Exploring advanced concepts in **AWS** to architect secure, distributed, and high-availability cloud solutions.
@@ -8,7 +8,7 @@
 - ⚡ **Fun Fact:** A passionate **traveller** and **fitness enthusiast**, always driven by curiosity and continuous improvement—both in tech and life.
   <br>
 
-### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px">: 
+### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="99px">: 
 <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
   <img align="left" width="51px" src="./linkedin.png" />
   </a>
