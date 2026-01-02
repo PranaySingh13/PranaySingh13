@@ -9,7 +9,6 @@
   <br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45px"> Connect with me:
-<br>
 <a href="https://www.linkedin.com/in/pranay-singh-57911b171/">
   <img align="left" width="51px" src="./linkedin.png" />
   </a>
